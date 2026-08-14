@@ -1,0 +1,10 @@
+{
+  "settings.subdomain.label": "Syncro Subdomain",
+  "settings.subdomain.description": "Your Syncro account subdomain (e.g. 'dynall')",
+  "settings.api_key.label": "API Key",
+  "settings.api_key.description": "Your Syncro API Bearer Token",
+  "settings.user_id.label": "Technician User ID",
+  "settings.user_id.description": "Your Syncro User ID (e.g. 113840)",
+  "settings.poll_interval.label": "Poll Interval (seconds)",
+  "settings.poll_interval.description": "How often to check for assigned tickets"
+}
