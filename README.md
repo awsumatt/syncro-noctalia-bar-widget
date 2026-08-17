@@ -4,11 +4,11 @@ A collection of Noctalia v5 plugins for SyncroMSP:
 
 - **Syncro Assigned Tickets** (`msp/syncro-assigned`) - Status bar widget and panel showing open tickets assigned to a technician.
 
-<img width="648" height="568" alt="image" src="https://github.com/user-attachments/assets/bc516598-1c43-48ca-976f-5b13da9445e7" />
+<img width="568" height="464" alt="image" src="https://github.com/user-attachments/assets/e6858471-6031-454f-96fd-6619e38f92a6" />
 
 - **Syncro Tickets** (`msp/syncro-tickets`) - Launcher search provider for searching open SyncroMSP tickets.
 
-<img width="568" height="464" alt="image" src="https://github.com/user-attachments/assets/e6858471-6031-454f-96fd-6619e38f92a6" />
+<img width="648" height="568" alt="image" src="https://github.com/user-attachments/assets/bc516598-1c43-48ca-976f-5b13da9445e7" />
 
 ### Installation
 
