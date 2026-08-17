@@ -15,5 +15,5 @@ function update()
 end
 
 function onClick()
-    noctalia.togglePanel("msp/syncro-assigned:panel")
+    noctalia.togglePanel("awsumatt/syncro-queue:panel")
 end
