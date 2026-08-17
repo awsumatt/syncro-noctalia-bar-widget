@@ -1,0 +1,19 @@
+{
+  "settings.subdomain.label": "Syncro Subdomain",
+  "settings.subdomain.description": "Your Syncro account subdomain (e.g. 'mycompany' for mycompany.syncromsp.com)",
+  "settings.api_key.label": "API Key",
+  "settings.api_key.description": "Your Syncro API Bearer Token",
+  "settings.time_filter.label": "Time Filter",
+  "settings.time_filter.description": "Only show tickets updated within this timeframe (unless searching by ticket number)",
+  "settings.time_filter.2_weeks": "Last 2 Weeks",
+  "settings.time_filter.1_month": "Last Month",
+  "settings.time_filter.3_months": "Last 3 Months",
+  "settings.time_filter.all": "All Time",
+  "settings.sort_by.label": "Sort Tickets By",
+  "settings.sort_by.description": "Choose how search results are sorted",
+  "settings.sort_by.updated_desc": "Recently Updated",
+  "settings.sort_by.created_desc": "Newest Created",
+  "settings.sort_by.created_asc": "Oldest Created",
+  "settings.sort_by.number_desc": "Ticket Number (High to Low)",
+  "settings.sort_by.number_asc": "Ticket Number (Low to High)"
+}
