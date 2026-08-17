@@ -1,4 +1,4 @@
-# syncro-noctalia-bar-widget
+# awsumatt/syncro-queue
 Integrates your SyncroMSP ticket queue into your Noctalia v5 status bar.
 
 
@@ -6,16 +6,9 @@ Integrates your SyncroMSP ticket queue into your Noctalia v5 status bar.
 
 *Disclaimer:* Fully vibe-coded. Made it for me, if someone else wants to use it, awesome. For that reason though, I'm not submitting it as a community plugin or creating an official plugin source. 
 
-### Installation:
-Add this repository as a plugin source in Noctalia:
-```bash
-noctalia msg plugins source add syncro-msp git <your-repo-url>
-```
-Alternatively, clone this plugin source repository directly into your Noctalia plugins directory.
+### Usage:
 
-Once added, enable the **Syncro Assigned Tickets** plugin (`msp/syncro-assigned`) via Noctalia settings or the plugin manager.
-
-And that's it. It's installed. You will need to generate an API key for your organization in the Syncro admin panel. Bare minimum it needs **List/Search** permissions for **Tickets**. Once you have the key, paste it into the plugin settings. 
+You will need to generate an API key for your organization in the Syncro admin panel. Bare minimum it needs **List/Search** permissions for **Tickets**. Once you have the key, paste it into the plugin settings. 
 
 The panel will show 2 pages: tickets which are open and unassigned, and tickets which are open and assigned to a configured user. Syncro uses ID numbers on the backend to differentiate users. Easiest way to find your user ID is to click your name up in the top right and select **Profile/Password**. The number at the end of your **Personal Appointment Booking URL** is your user ID.
 
