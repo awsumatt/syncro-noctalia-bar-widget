@@ -1,4 +1,4 @@
-# Syncro MSP Noctalia Plugins
+# SyncroMSP Noctalia Plugins
 
 A collection of Noctalia v5 plugins for SyncroMSP:
 
