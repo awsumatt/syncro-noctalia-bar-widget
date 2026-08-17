@@ -35,6 +35,13 @@ label_key    = "settings.poll_interval.label"
 description_key = "settings.poll_interval.description"
 default      = 300
 
+[[setting]]
+key          = "show_unassigned_label"
+type         = "bool"
+label_key    = "settings.show_unassigned_label.label"
+description_key = "settings.show_unassigned_label.description"
+default      = true
+
 [[widget]]
 id    = "widget"
 entry = "widget.luau"

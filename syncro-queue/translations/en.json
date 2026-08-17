@@ -6,5 +6,7 @@
   "settings.user_id.label": "Technician User ID",
   "settings.user_id.description": "Your Syncro User ID (e.g. 113840)",
   "settings.poll_interval.label": "Poll Interval (seconds)",
-  "settings.poll_interval.description": "How often to check for assigned tickets"
+  "settings.poll_interval.description": "How often to check for assigned tickets",
+  "settings.show_unassigned_label.label": "Show 'Unassigned' Label",
+  "settings.show_unassigned_label.description": "Whether to display 'Unassigned' next to the count in the status bar widget"
 }
