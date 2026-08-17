@@ -9,7 +9,7 @@ Integrates your SyncroMSP ticket queue into your Noctalia v5 status bar.
 ### Installation:
 Installation is simple regardless, if you don't already have a local plugins folder, create one with `mkdir -p ~/.local/share/noctalia/plugins`. 
 
-Then `cd ~/.local/share/noctalia/plugins` and `git clone https://github.com/awsumatt/syncro-noctalia-bar-widget.git`. 
+Then `cd ~/.local/share/noctalia/plugins` and `git clone https://github.com/awsumatt/syncro-noctalia-bar-widget.git`. Log out and log back in.
 
 And that's it. It's installed. You will need to generate an API key for your organization in the Syncro admin panel. Bare minimum it needs **List/Search** permissions for **Tickets**. Once you have the key, paste it into the plugin settings. 
 
