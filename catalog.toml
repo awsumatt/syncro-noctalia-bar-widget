@@ -1,5 +1,5 @@
 [[plugin]]
-id           = "msp/syncro-assigned"
+id           = "awsumatt/syncro-queue"
 name         = "Syncro Assigned Tickets"
 version      = "1.0.0"
 author       = "awsumatt"
@@ -11,7 +11,7 @@ plugin_api   = 6
 tags         = ["ticketing", "syncro", "support"]
 
 [[plugin]]
-id           = "msp/syncro-tickets"
+id           = "awsumatt/syncro-provider"
 name         = "Syncro Tickets"
 version      = "1.3.0"
 author       = "awsumatt"
