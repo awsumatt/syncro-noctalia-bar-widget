@@ -1,9 +1,9 @@
-id           = "msp/syncro-tickets"
-name         = "Syncro Tickets"
+id           = "awsumatt/syncro-provider"
+name         = "Syncro Ticket Provider"
 version      = "1.3.0"
 plugin_api   = 6
-author       = "MSP Tech"
-license      = "MIT"
+author       = "awsumatt"
+license      = "CC"
 icon         = "ticket"
 description  = "Search SyncroMSP tickets directly from the Noctalia launcher."
 

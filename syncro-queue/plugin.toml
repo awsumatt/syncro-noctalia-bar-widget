@@ -1,9 +1,9 @@
-id           = "msp/syncro-assigned"
-name         = "Syncro Assigned Tickets"
+id           = "awsumatt/syncro-queue"
+name         = "Syncro Ticket Queue"
 version      = "1.0.0"
 plugin_api   = 6
-author       = "MSP Tech"
-license      = "MIT"
+author       = "awsumatt"
+license      = "CC"
 icon         = "user-check"
 description  = "Bar widget and panel showing open tickets assigned to a technician."
 
