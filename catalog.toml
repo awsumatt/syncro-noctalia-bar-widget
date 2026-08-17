@@ -1,6 +1,6 @@
 [[plugin]]
 id           = "awsumatt/syncro-queue"
-name         = "Syncro Assigned Tickets"
+name         = "Syncro Ticket Queue"
 version      = "1.0.0"
 author       = "awsumatt"
 license      = "CC"
@@ -12,7 +12,7 @@ tags         = ["ticketing", "syncro", "support"]
 
 [[plugin]]
 id           = "awsumatt/syncro-provider"
-name         = "Syncro Tickets"
+name         = "Syncro Ticket Provider"
 version      = "1.3.0"
 author       = "awsumatt"
 license      = "CC"
