@@ -8,7 +8,7 @@ A collection of Noctalia v5 plugins for SyncroMSP:
 
 - **Syncro Ticket Provider** (`awsumatt/syncro-provider`) - Launcher search provider for searching open SyncroMSP tickets.
 
-<img width="648" height="568" alt="image" src="https://github.com/user-attachments/assets/bc516598-1c43-48ca-976f-5b13da9445e7" />
+<img width="960" height="540" alt="gitThumbProv" src="https://github.com/user-attachments/assets/b160b972-abb9-48c9-992f-0d21b60b54bb" />
 
 ### Installation
 
