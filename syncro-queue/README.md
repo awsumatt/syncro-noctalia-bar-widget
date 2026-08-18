@@ -1,8 +1,7 @@
 # awsumatt/syncro-queue
 Integrates your SyncroMSP ticket queue into your Noctalia v5 status bar.
 
-
-<img width="602" height="479" alt="image" src="https://github.com/user-attachments/assets/7a6dc966-be98-46c0-abe3-85710739bfc5" />
+![image](https://github.com/user-attachments/assets/7a6dc966-be98-46c0-abe3-85710739bfc5)
 
 *Disclaimer:* Fully vibe-coded. Made it for me, if someone else wants to use it, awesome. For that reason though, I'm not submitting it as a community plugin or creating an official plugin source. 
 
