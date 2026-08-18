@@ -2,11 +2,11 @@
 
 A collection of Noctalia v5 plugins for SyncroMSP:
 
-- **Syncro Ticket Queue** (`awsumatt/syncro-queue`) - Status bar widget and panel showing open tickets assigned to a technician.
+## **Syncro Ticket Queue** (`awsumatt/syncro-queue`)
 
 <img width="960" height="540" alt="gitThumbQueue" src="https://github.com/user-attachments/assets/8ee3c706-800c-4619-8a23-7d63883057d4" />
 
-- **Syncro Ticket Provider** (`awsumatt/syncro-provider`) - Launcher search provider for searching open SyncroMSP tickets.
+## **Syncro Ticket Provider** (`awsumatt/syncro-provider`)
 
 <img width="960" height="540" alt="gitThumbProv" src="https://github.com/user-attachments/assets/b160b972-abb9-48c9-992f-0d21b60b54bb" />
 
