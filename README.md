@@ -1,6 +1,5 @@
 # SyncroMSP Noctalia Plugins
-
-A collection of Noctalia v5 plugins for SyncroMSP:
+#### _A collection of Noctalia v5 plugins for SyncroMSP_
 
 ## **Syncro Ticket Queue** (`awsumatt/syncro-queue`)
 
