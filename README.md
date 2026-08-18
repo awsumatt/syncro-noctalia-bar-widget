@@ -7,7 +7,7 @@
 
 ## **Syncro Ticket Provider** (`awsumatt/syncro-provider`)
 
-<img width="960" height="540" alt="gitThumbProv" src="https://github.com/user-attachments/assets/b160b972-abb9-48c9-992f-0d21b60b54bb" />
+[ ![image](https://github.com/user-attachments/assets/b160b972-abb9-48c9-992f-0d21b60b54bb) ](https://github.com/awsumatt/syncro-noctalia-plugins/tree/main/syncro-provider)
 
 ### Installation
 
