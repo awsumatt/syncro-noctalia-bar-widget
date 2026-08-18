@@ -3,7 +3,7 @@
 
 ## **Syncro Ticket Queue** (`awsumatt/syncro-queue`)
 
-[ ![image]("https://github.com/user-attachments/assets/8ee3c706-800c-4619-8a23-7d63883057d4") ](https://github.com/awsumatt/syncro-noctalia-plugins/tree/main/syncro-queue) 
+[ []("https://github.com/user-attachments/assets/8ee3c706-800c-4619-8a23-7d63883057d4") ](https://github.com/awsumatt/syncro-noctalia-plugins/tree/main/syncro-queue) 
 
 ## **Syncro Ticket Provider** (`awsumatt/syncro-provider`)
 
