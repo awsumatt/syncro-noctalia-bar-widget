@@ -14,7 +14,7 @@
 Add this repository as a plugin source in Noctalia:
 
 ```bash
-noctalia msg plugins source add syncro-plugins git <https://github.com/awsumatt/syncro-noctalia-plugins.git>
+noctalia msg plugins source add syncro-plugins git https://github.com/awsumatt/syncro-noctalia-plugins.git
 ```
 **OR**
 
